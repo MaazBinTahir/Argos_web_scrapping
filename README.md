@@ -23,4 +23,4 @@ A total of 258 products were scrapped along with 31 features including:
 3) Pandas
 
 
-##### NOTE: This script was made in May 2022. (Now the website may have updated and therefore the url used in the script may also have to be updated)
+##### NOTE: This script was made in May 2022. (Now the website may have updated and therefore the url used in the script may also need to be updated)
