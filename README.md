@@ -4,9 +4,9 @@ Scrapping the Bedding catalog from Argos' Website
 Using Python to scrape bedding catalog from Argos website.
 A total of 258 products were scrapped along with 31 features including:
 
-\n Name of Product
-\n Url of product
-Brand
+1) Name of Product
+2) Url of product
+3) Brand
 Sizes
 Price
 Description
